@@ -1,0 +1,6 @@
+{
+  "name": "eClinic Leap - Pembayaran Kasir",
+  "description": "Aplikasi kasir dan pembayaran klinik eClinic Leap dengan rincian tindakan medis, pemeriksaan laboratorium, resep obat, diskon, PPN, dan cetak struk/kuitansi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
